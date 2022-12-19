@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Numerical Tic Tac Toe
 This program is a Tic Tac Toe Game. It is a simple game that involves 2 players facing off against each other to try and win. The only thing needed for this game is a friend to play with. You can play the regular Tic Tac Toe Game using a terminal or a user interface, or play Numerical Tic Tac Toe using a user interface.
 
 ## Description
